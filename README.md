@@ -6,16 +6,16 @@ Accurate blood glucose prediction in Type 1 diabetes is essential for preventing
 
 Since glucose levels are influenced by multiple factors like diet, stress, and exercise, predictive models help reduce the mental and physical burden on patients and caregivers by providing automated assistance.
 
-#DILATED CONVOLUTIONAL NEURAL NETWORK MODEL
+*DILATED CONVOLUTIONAL NEURAL NETWORK MODEL*
 
 A Dilated Convolutional Neural Network (DCNN) is a variation of the traditional Convolutional Neural Network (CNN) designed to capture larger receptive fields (the region of input that influences a particular output).Dilated convolutions increase the receptive field(how many previous glucose readings a neuron can use to make a prediction.) without increasing the kernel size or adding more layers. This is useful for time-series data like glucose levels, where long-term dependencies are key. 
 
-About The Dataset : HUPA-UCM DIABETES DATASET
+**About The Dataset : HUPA-UCM DIABETES DATASET**
 
 The dataset consists of multiple CSV files, each named with an identifier (e.g., "HUPA0001P.csv" to "HUPA0028P.csv"). These likely represent individual patient records or data segments.
 
 
-Summary of the Data:
+**Summary of the Data:**
 
 Time-based dataset: Each row represents a timestamped health measurement.
 
