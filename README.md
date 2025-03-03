@@ -12,7 +12,7 @@ A Dilated Convolutional Neural Network (DCNN) is a variation of the traditional 
 
 **About The Dataset : HUPA-UCM DIABETES DATASET**
 
-The dataset consists of multiple CSV files, each named with an identifier (e.g., "HUPA0001P.csv" to "HUPA0028P.csv"). These likely represent individual patient records or data segments.
+The dataset consists of multiple CSV files, each named with an identifier (e.g., "HUPA0001P.csv" to "HUPA0028P.csv"). These represent individual patient records or data segments.
 
 
 **Summary of the Data:**
